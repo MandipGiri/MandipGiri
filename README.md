@@ -14,6 +14,8 @@
   </br>
 - Hobbies : Cooking besides coding
 
+![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
+
 ## Primary
 
 <div align="center">
@@ -35,7 +37,8 @@
 <p align="center">
 <h3>Good</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,go,html,js,mongodb,nextjs,nodejs,postman,react,redux,sass,ts" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,go,mongodb,html,git,github,gitlab,postman,sass" />
+    </br>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
@@ -43,12 +46,12 @@
 
 <h3>Intermediate</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,css,docker,firebase,java,kotlin,materialui,nextjs,nodejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,css,docker,firebase,java,kotlin,materialui,nextjs,nodejs,tailwind,redux" />
 </a>
 
 </br>
 
-<h3></h3>Beginner</h3>
+<h3>Beginner</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,gcp,graphql,mysql" />
   </a>
@@ -76,7 +79,5 @@
 
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=MandipGiri&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
 
 </div>
