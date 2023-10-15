@@ -4,15 +4,15 @@
 
 ## About Me ![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
 
-- Name : Mandip Giri
+- <h3><b><i>Name : Mandip Giri</i></b></h3>
   </br>
-- Role : Senior Software Engineer
+- <h3><b><i>Role : Senior Software Engineer</i></b></h3>
   </br>
-- Where : CloudFactory
+- <h3><b><i>Where : CloudFactory</i></b></h3>
   </br>
-- Origin & Workplace : Nepal
+- <h3><b><i>Origin & Workplace : Nepal</i></b></h3>
   </br>
-- Hobbies : Cooking besides coding
+- <h3><b><i>Hobbies : Cooking besides coding</i></b></h3>
 
 ## Primary
 
@@ -76,4 +76,3 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MandipGiri&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
-
