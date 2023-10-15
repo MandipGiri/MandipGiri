@@ -2,7 +2,7 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 </h3>
 
-## About Me
+## About Me ![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
 
 - Name : Mandip Giri
   </br>
@@ -13,8 +13,6 @@
 - Origin & Workplace : Nepal
   </br>
 - Hobbies : Cooking besides coding
-
-![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
 
 ## Primary
 
