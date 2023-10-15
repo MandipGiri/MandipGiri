@@ -5,13 +5,9 @@
 ## About Me ![](https://komarev.com/ghpvc/?username=MandipGiri&color=red&style=plastic)
 
 - <h3><b><i>Name : Mandip Giri</i></b></h3>
-  </br>
 - <h3><b><i>Role : Senior Software Engineer</i></b></h3>
-  </br>
 - <h3><b><i>Where : CloudFactory</i></b></h3>
-  </br>
 - <h3><b><i>Origin & Workplace : Nepal</i></b></h3>
-  </br>
 - <h3><b><i>Hobbies : Cooking besides coding</i></b></h3>
 
 ## Primary
