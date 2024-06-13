@@ -57,7 +57,8 @@
 
 <h3>UI/UX/DX</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,xd" />
+    <img src="https://skillicons.dev/icons?i=xd" />
+    <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
     <img src="https://skillicons.dev/icons?i=vscode" />
